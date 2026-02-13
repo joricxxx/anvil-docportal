@@ -3,7 +3,7 @@
         <h1>Anvil</h1>
         <p style="font-weight: lighter;">Target: `AV.010.001`</p>
         <tr>
-            <td valign="top">
+            <td width="60%"  valign="top">
                 <div>
                     <table border="1">
                         <tr>
@@ -25,7 +25,7 @@
                     <strong>Note:</strong> This system is for small business reach owner and online food buyer. The primary goal is to minimize food waste by providing a platform to sell it.
                 </blockquote>
             </td>
-            <td width="40%" valign="top">
+            <td valign="top">
                 <h2>Site Map</h2>             
                 <p><strong>1. Authentication and Access Control</strong></p>
                 <p style="padding-left: 15px"><strong>Register</strong></p>
